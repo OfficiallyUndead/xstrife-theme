@@ -15,7 +15,7 @@ body{
     font-family:CircularStd,sans-serif;
     font-size:15px;
     background:#fdfdfd;
-    color:#bdbac2
+    color: #ffffff;
 }
 a{
     color:inherit;
@@ -141,9 +141,8 @@ p{
     padding:16px 25px;
     width:100%;
     background:#2196F3;
-    color:#fff;
+    color: #fff;
     border-radius:6px;
-    box-shadow:0 0 30px 5px #f5f5f5
 }
 .avatar-lg,.avatar-md,.avatar-sm,.avatar-xl{
     box-shadow:0 5px 10px 4px #f5f5f5
@@ -1666,7 +1665,7 @@ input:checked+.slider:before{
     min-width:550px;
     max-width:550px;
     height:100vh;
-    background:linear-gradient(145deg,rgba(140,167,255,1) 0,rgba(139,84,249,1) 50%,rgba(131,33,243,1) 100%)
+    background: linear-gradient(145deg,#2b2a2e 0,#2e2d31 50%,#38373a 100%);
 }
 .aside .preference{
     width:100%;
